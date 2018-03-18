@@ -31,3 +31,5 @@ c:\users\refaelo\documents\visual studio 2015\Projects\refaelomoscatelo\refaelom
 c:\users\refaelo\documents\visual studio 2015\Projects\refaelomoscatelo\refaelomoscatelo\obj\Debug\refaelomoscatelo.csprojResolveAssemblyReference.cache
 c:\users\refaelo\documents\visual studio 2015\Projects\refaelomoscatelo\refaelomoscatelo\obj\Debug\refaelomoscatelo.dll
 c:\users\refaelo\documents\visual studio 2015\Projects\refaelomoscatelo\refaelomoscatelo\obj\Debug\refaelomoscatelo.pdb
+C:\Users\Refaelo\Documents\GitHub\refaelomoscatelo.github.io\obj\Debug\refaelomoscatelo.dll
+C:\Users\Refaelo\Documents\GitHub\refaelomoscatelo.github.io\obj\Debug\refaelomoscatelo.pdb
